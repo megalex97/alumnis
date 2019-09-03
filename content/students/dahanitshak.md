@@ -7,7 +7,7 @@
 title: ratus
 
 # First name or full name
-name: Dahan Simon
+name: Dahan simon
 date: 2019-07-26 18:00
 
 # One line.
